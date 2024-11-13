@@ -35,7 +35,7 @@ Le projet est divisé en plusieurs étapes de développement et de rendu, chacun
 
 1. **Cloner le dépôt du projet**  
    ```bash
-git clone https://github.com/adamelhorri/HexaStore-Systeme-de-Stockage-et-Requete-RDF-Optimise.git
+   git clone https://github.com/adamelhorri/HexaStore-Systeme-de-Stockage-et-Requete-RDF-Optimise.git
 
    ```
 
